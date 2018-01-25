@@ -13,7 +13,7 @@ The [LinuxServer.io][linuxserverurl] team brings you another container release f
 * [Podcast][podcasturl] covers everything to do with getting the most from your Linux Server plus a focus on all things Docker and containerisation!
 
 # lsioarmhf/piwigo
-[![](https://images.microbadger.com/badges/version/lsioarmhf/plexpy.svg)](https://microbadger.com/images/lsioarmhf/plexpy "Get your own version badge on microbadger.com")[![](https://images.microbadger.com/badges/image/lsioarmhf/plexpy.svg)](https://microbadger.com/images/lsioarmhf/plexpy "Get your own image badge on microbadger.com")[![Docker Pulls](https://img.shields.io/docker/pulls/lsioarmhf/plexpy.svg)][hub][![Docker Stars](https://img.shields.io/docker/stars/lsioarmhf/plexpy.svg)][hub][![Build Status](https://ci.linuxserver.io/buildStatus/icon?job=Docker-Builders/armhf/armhf-plexpy)](https://ci.linuxserver.io/job/Docker-Builders/job/armhf/job/armhf-plexpy/)
+[![](https://images.microbadger.com/badges/version/lsioarmhf/piwigo.svg)](https://microbadger.com/images/lsioarmhf/piwigo "Get your own version badge on microbadger.com")[![](https://images.microbadger.com/badges/image/lsioarmhf/piwigo.svg)](https://microbadger.com/images/lsioarmhf/piwigo "Get your own image badge on microbadger.com")[![Docker Pulls](https://img.shields.io/docker/pulls/lsioarmhf/piwigo.svg)][hub][![Docker Stars](https://img.shields.io/docker/stars/lsioarmhf/piwigo.svg)][hub][![Build Status](https://ci.linuxserver.io/buildStatus/icon?job=Docker-Builders/armhf/armhf-piwigo)](https://ci.linuxserver.io/job/Docker-Builders/job/armhf/job/armhf-piwigo/)
 
 Piwigo is a photo gallery software for the web that comes with powerful features to publish and manage your collection of pictures.
 
