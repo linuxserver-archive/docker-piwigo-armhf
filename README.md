@@ -86,11 +86,4 @@ The easiest way to edit the configuration file is to enable local files editor f
 
 ## Versions
 
-+ **25.01.18:** Rebase to alpine linux 3.7.
-+ **25.05.17:** Rebase to alpine linux 3.6.
-+ **03.05.17:** Use repo pinning to better solve dependencies, use repo version of php7-imagick.
-+ **20.04.17:** Add php7-exif package, thanks iiska
-+ **23.02.17:** Rebase to alpine linux 3.5 and nginx.
-+ **14.10.16:** Add version layer information.
-+ **10.09.16:** Add layer badges to README.
-+ **29.08.15:** Initial Release.
++ **25.01.18:** Initial Release.
