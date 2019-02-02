@@ -1,0 +1,19 @@
+echo '
+******************************************************
+******************************************************
+*                                                    *
+*                                                    *
+*          This image has been deprecated            *
+*                                                    *
+*           Use the multi-arch images at             *
+*                                                    *
+*               linuxserver/piwigo                   *
+*                                                    *
+*    https://hub.docker.com/r/linuxserver/piwigo     *
+*                                                    *
+*   https://github.com/linuxserver/docker-piwigo     *
+*                                                    *
+*                                                    *
+*                                                    *
+******************************************************
+******************************************************'
